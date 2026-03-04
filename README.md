@@ -33,26 +33,9 @@ The goal was to transform raw institutional data into actionable insights and pr
 ##  Tools & Technologies
 
 - **Excel:** Data cleaning & preprocessing  
-- **SQL:** MySQL / PostgreSQL / SQLite for data storage & queries  
+- **SQL:** PostgreSQL for data storage & queries  
 - **Power BI Desktop:** Interactive dashboards & KPI calculations  
 - **DAX:** Custom measures & analytics  
-
----
-
-## 📂 Project Structure
-
-south-african-universities-quantitative-analysis/
-│
-├── raw data/                          # Original source data files (pre-processing)
-│
-├── optimised-for-analytics-csv-files/ # Cleaned, structured CSVs ready for analysis
-│
-├── data-mart-schema.sql               # SQL schema for the analytical data mart
-│
-├── EnrolmentsAndGraduatesTrends.pbix  # Power BI dashboard file
-│
-└── README.md
-
 
 ---
 
