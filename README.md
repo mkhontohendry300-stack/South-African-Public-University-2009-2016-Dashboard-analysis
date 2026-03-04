@@ -1,47 +1,95 @@
-🎓 South African Public University Data Analysis (2009–2016)
+#  South African Public University Data Analysis (2009–2016)
 
-Comprehensive analysis of South African public university data using Excel, SQL, and Power BI.
+A comprehensive data analytics project completed as part of the **CAPACITI Tech Career Accelerator Program**, simulating a real-world **data analyst role** in higher education, finance, and research analytics.
 
-This project was completed as part of the CAPACITI Tech Career Accelerator program and simulates a real-world data analyst role in higher education, finance, and research analytics.
+---
 
-📌 Project Overview
+##  Project Overview
 
-This project analyzes public university data from 2009 to 2016, focusing on:
+This project analyzes public university data from **2009 to 2016**, focusing on:
 
-📈 Student Enrollments
+-  **Student Enrollments**  
+-  **Graduation Rates**  
+-  **Faculty Demographics**  
+-  **Financial Performance**  
+-  **Research Outputs**
 
-🎓 Graduation Rates
+**Workflow:**  
 
-👩🏽‍🏫 Faculty Demographics
+The goal was to transform raw institutional data into actionable insights and professional dashboards.
 
-💰 Financial Performance
+---
 
-🔬 Research Outputs
+##  Objectives
 
-The goal was to transform raw institutional data into actionable insights using a structured analytics workflow:
+- Clean and prepare large datasets using Excel  
+- Design and query relational databases using SQL  
+- Build interactive dashboards in Power BI  
+- Extract multi-year insights on enrollment, graduation, faculty, finances, and research outputs  
+- Present findings in structured analytical reports  
 
-Excel → SQL → Power BI → Business Insights
+---
 
-🎯 Objectives
+##  Tools & Technologies
 
-By completing this project, I demonstrated the ability to:
+- **Excel:** Data cleaning & preprocessing  
+- **SQL:** MySQL / PostgreSQL / SQLite for data storage & queries  
+- **Power BI Desktop:** Interactive dashboards & KPI calculations  
+- **DAX:** Custom measures & analytics  
 
-Clean and prepare large datasets using Excel
+---
 
-Design and query relational databases using SQL
+## 📂 Project Structure
+south-african-universities-quantitative-analysis/
 
-Build interactive dashboards in Power BI
+│
+├── raw data/                          # source data files (pre-processing)
+│
+├── optimised-for-analytics-csv-files/ # Cleaned, structured CSVs ready for analysis
+│
+├── data-mart-schema.sql               # SQL schema for the analytical data mart
+│
+├── EnrolmentsAndGraduatesTrends.pbix  # Power BI dashboard file
+│
+└── README.md
 
-Extract strategic insights from multi-year institutional data
 
-Present findings in a structured analytical report
+---
 
-🛠️ Tools & Technologies
+##  Key Analysis & Deliverables
 
-Microsoft Excel – Data cleaning & preprocessing
+###  Data Cleaning & Preparation (Excel)
+- Standardized column names & formats  
+- Converted dates to YYYY-MM-DD  
+- Handled missing values and duplicates  
+- Applied conditional formatting to detect anomalies  
 
-SQL (MySQL / PostgreSQL / SQLite) – Data storage & advanced querying
+**Deliverable:** Cleaned dataset ready for SQL ingestion.
 
-Power BI Desktop – Data modeling & interactive dashboards
+###  SQL Database & Analysis
+- Created relational schema and imported cleaned data  
+- Calculated key metrics:  
+  - Enrollment trends & top universities  
+  - Graduation success rates  
+  - Student-to-staff ratios & faculty demographics  
+  - Research output vs funding  
+  - Financial performance & budget trends  
 
-DAX – Calculated measures & KPIs
+**Deliverable:** Optimised SQL queries and exported results.
+
+###  Power BI Dashboards
+- **Enrollment & Graduation Dashboard:** Trends, comparisons, filters (Gender, Race, Field of Study)  
+- **Faculty Demographics Dashboard:** Gender & race composition, student-to-staff ratios  
+- **Financial Overview Dashboard:** Income & expenditure analysis, budget trends  
+- **Research Performance Dashboard:** Research output heatmaps, funding efficiency, KPI indicators  
+
+**Deliverable:** Interactive dashboards for executive-level insights.
+
+---
+
+##  Outcome
+- Provided actionable insights on student enrollments, graduation rates, faculty distribution, finances, and research outputs  
+- Demonstrated proficiency in **Excel, SQL, and Power BI**  
+- Produced professional dashboards suitable for decision-making in higher education and finance analytics  
+
+**© 2024 CAPACITI | Tech Career Accelerator Program**
