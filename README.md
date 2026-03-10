@@ -5,6 +5,7 @@ A comprehensive data analytics project completed as part of the **CAPACITI Tech 
 ---
 Insight: https://uni-audit-insights.lovable.app/
 
+<img width="1346" height="618" alt="image" src="https://github.com/user-attachments/assets/b4d32ea4-5785-4891-9474-6b6eb986ed8d" />
 
 
 ##  Project Overview
