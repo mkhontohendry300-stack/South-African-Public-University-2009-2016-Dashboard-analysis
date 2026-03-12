@@ -1,16 +1,11 @@
 #  South African Public University Quantitative Analysis (2009–2016)
 
-A comprehensive data analytics project completed as part of the **CAPACITI Tech Career Accelerator Program**, simulating a real-world **data analyst role** in higher education, finance, and research analytics.
+> **A comprehensive data analytics project completed as part of the [CAPACITI Tech Career Accelerator Program](https://capaciti.org.za/), simulating a real-world data analyst role in higher education, finance, and research analytics.**
 
----
-Insight: https://uni-audit-insights.lovable.app/
 
 <img width="1346" height="618" alt="image" src="https://github.com/user-attachments/assets/b4d32ea4-5785-4891-9474-6b6eb986ed8d" />
 
 
-#  South African Public University Quantitative Analysis (2009–2016)
-
-> **A comprehensive data analytics project completed as part of the [CAPACITI Tech Career Accelerator Program](https://capaciti.org.za/), simulating a real-world data analyst role in higher education, finance, and research analytics.**
 
 [![Live Dashboard](https://img.shields.io/badge/Live%20Insights-View%20Dashboard-0A84FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxN3YtNkg5bDMtNCAzIDRoLTJ2NmgtMnoiLz48L3N2Zz4=)](https://uni-audit-insights.lovable.app/)
 [![Program](https://img.shields.io/badge/CAPACITI-Tech%20Career%20Accelerator-27AE60?style=for-the-badge)](https://capaciti.org.za/)
@@ -35,7 +30,7 @@ This project analyses longitudinal data from South African public universities s
 
 ##  Objectives
 
-- ✅ Clean and prepare large institutional datasets using **Excel**
+- ✅ Clean and prepare large institutional datasets using **Excel, Python**
 - ✅ Design and query relational databases using **SQL (PostgreSQL)**
 - ✅ Build interactive executive dashboards in **Power BI**
 - ✅ Extract multi-year insights on enrollment, graduation, faculty, finances, and research
